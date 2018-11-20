@@ -32,7 +32,7 @@ galleryImages: NgxGalleryImage[];
      }
    ];
    this.galleryImages = this.getImages();
-   
+
 
   }
   getImages() {
